@@ -142,10 +142,6 @@ Para una demostración manual, iniciar las cuatro terminales, enviar varios text
 | PostgreSQL y S3 | Registros y objetos, respectivamente | No implementados |
 | Tareas y resultados | Recorrido completo | Implementado con TCP y JSON |
 
-## Entrega
-
-Subir todos los archivos de esta carpeta al repositorio. GitHub representa los diagramas Mermaid de `DIAGRAMA.md`. Nombre sugerido: `sistema-distribuido-sockets-python`.
-
 ## Referencias
 
 - [Sockets en Python](https://docs.python.org/3/howto/sockets.html).
