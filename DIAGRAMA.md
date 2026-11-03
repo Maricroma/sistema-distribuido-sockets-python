@@ -1,7 +1,5 @@
 # Diagrama del sistema distribuido
 
-Este documento utiliza Mermaid, que GitHub representa como un diagrama al abrir el archivo.
-
 ## Arquitectura completa propuesta
 
 ```mermaid
